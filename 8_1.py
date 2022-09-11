@@ -1,0 +1,5 @@
+f = open("Fichero.txt", "w")
+f.write("Thi is a text\n")
+f.write("For ejemplo\n")
+f.close()
+print(f)
